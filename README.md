@@ -20,3 +20,16 @@ Deze map bevat globale hooks die we herhaaldelijk hergebruiken in het project.
 Hierin zijn ook hooks opgenomen waarmee API-aanroepen worden gedaan. 
 Deze hooks controleren nogmaals de status van de gegevens en retourneren deze in de variabele van de status. 
 Hierdoor kunnen deze netjes worden gebruikt in de pagina die wordt weergegeven.
+
+
+## Voorbeeld afbeeldingen
+
+![Afbeelding 1](./Example-images/1.png)
+*Lijst weergave van Samples*
+
+![Afbeelding 1](./Example-images/2.png)
+*Dashboard weergave van een 1 dag*
+
+
+![Afbeelding 1](./Example-images/3.png)
+*Modal van de create pagina van een Sample*
